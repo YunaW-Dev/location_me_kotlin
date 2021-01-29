@@ -5,3 +5,5 @@
 This mobile app functions as a memorable location travel diary, where multiple meaningful places can be stored and editted, and it will have the access to google map integrated.
 
 Thsi app is built with kotlin.
+
+This particular development is temporarily on hold because of school work, interviews and other projects
