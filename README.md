@@ -6,4 +6,4 @@ This mobile app functions as a memorable location travel diary, where multiple m
 
 Thsi app is built with kotlin.
 
-This particular development is temporarily on hold because of school work, interviews and other projects
+This particular development is temporarily on hold because of school work, part time research job and prep for summer internship.
